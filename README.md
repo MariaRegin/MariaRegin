@@ -16,8 +16,7 @@
 - 🔭 Currently working on: **Pet projects with React**
 - 🌱 Learning: **Vue.js**
 - 💬 Ask me about: **Frontend development**
-- ⚡ Fun fact: **I love coffee**
-
+  
 ---
 
 ### 🛠️ Tech Stack
