@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maria 🪐</h1>
-<h3 align="center">Frontend Developer | React Enthusiast</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   <a href="https://t.me/zhukovamaria"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -37,5 +37,14 @@
 ### 🚀 Featured Projects
 
 - [Landing Page](in progress) — Modern landing page with light/dark mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MariaRegin/MariaRegin/main/assets/sun.svg" width="24"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MariaRegin/MariaRegin/main/assets/switch-dark.svg" width="48"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MariaRegin/MariaRegin/main/assets/moon.svg" width="24"/>
+</p>
+
 
 
