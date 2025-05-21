@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Maria 🪐</h1>
+<h1 align="center">Hi there, I'm Maria 🎧</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
@@ -37,14 +37,5 @@
 ### 🚀 Featured Projects
 
 - [Landing Page](in progress) — Modern landing page with light/dark mode
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MariaRegin/MariaRegin/main/assets/sun.svg" width="24"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MariaRegin/MariaRegin/main/assets/switch-dark.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MariaRegin/MariaRegin/main/assets/moon.svg" width="24"/>
-</p>
-
 
 
