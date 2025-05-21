@@ -36,6 +36,6 @@
 
 ### 🚀 Featured Projects
 
-- [Landing Page](in progress) — Modern landing page with light/dark mode
+- [Landing Page](https://mariaregin.github.io/storage-landing/) — Modern landing page with light/dark mode
 
 
