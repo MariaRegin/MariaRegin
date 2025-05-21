@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Maria 🪐</h1>
+<h3 align="center">Frontend Developer | React Enthusiast</h3>
 
 <p align="center">
   <a href="https://t.me/zhukovamaria"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
