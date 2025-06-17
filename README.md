@@ -37,5 +37,6 @@
 ### 🚀 Featured Projects
 
 - [Landing Page](https://mariaregin.github.io/storage-landing/) — Modern landing page with light/dark mode
+- [Sequence Alignment] (https://mariaregin.github.io/sequence-alignment/) — A tool for aminoacid sequence alignment visualisation
 
 
