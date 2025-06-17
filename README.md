@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Maria 🎧</h1>
+<h1 align="center">Hi there, I'm Maria</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
