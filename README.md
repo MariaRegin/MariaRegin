@@ -11,9 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on: **Pet projects with React**
-- 🌱 Learning: **Vue.js**
-- 💬 Ask me about: **Frontend development**
-  
+- 🌱 Learning: **Vue.js**  
 ---
 
 ### 🛠️ Tech Stack
@@ -37,6 +35,6 @@
 ### 🚀 Featured Projects
 
 - [Landing Page](https://mariaregin.github.io/storage-landing/) — Modern landing page with light/dark mode
-- [Sequence Alignment](https://mariaregin.github.io/sequence-alignment/) — A tool for aminoacid sequence alignment visualisation
+- [Sequence Alignment](https://mariaregin.github.io/sequence-alignment/) — Alignment tool for amino acid sequences and visualisation
 
 
