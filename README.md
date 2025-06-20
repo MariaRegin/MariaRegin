@@ -26,20 +26,10 @@
 
 ---
 
-### Tech Stack
-
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
----
-
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaRegin&show_icons=true&theme=github_dark" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaRegin&theme=github-dark-blue"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaRegin&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 ---
