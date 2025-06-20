@@ -20,7 +20,7 @@
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="24" height="24" style="vertical-align:middle; fill:#61DAFB"/> <span style="margin-left:6px; color:#61DAFB;">React</span></td>
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="24" height="24" style="vertical-align:middle; fill:#3178C6"/> <span style="margin-left:6px; color:#3178C6;">TypeScript</span></td>
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="24" height="24" style="vertical-align:middle; fill:#1572B6"/> <span style="margin-left:6px; color:#1572B6;">CSS3</span></td>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" alt="Angular" width="24" height="24" style="vertical-align:middle;"/> 
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" alt="Angular" width="24" height="24" style="vertical-align:middle;"/> 
       <span style="margin-left:6px; color:#DD0031;">Angular</span>
     </td>
   </tr>
