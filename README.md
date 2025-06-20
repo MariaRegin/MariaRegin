@@ -42,5 +42,6 @@
 
 - [Landing Page](https://mariaregin.github.io/storage-landing/) — Modern landing page with light/dark mode
 - [Sequence Alignment](https://mariaregin.github.io/sequence-alignment/) — Alignment tool for amino acid sequences and visualisation
+- [Nonprofit organization website](https://lenaanohina.github.io/project2_fund/) — Team project for family social support center website
 
 
