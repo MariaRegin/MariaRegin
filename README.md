@@ -42,5 +42,6 @@
 - [Sequence Alignment](https://mariaregin.github.io/sequence-alignment/) — Alignment tool for amino acid sequences and visualisation
 - [Nonprofit organization website](https://lenaanohina.github.io/project2_fund/) — Team project for family social support center website
 - [IPv4 Table](https://mariaregin.github.io/sorting-table/) - IPv4 table with sorting using Angular
+- [My to-do's](https://mariaregin.github.io/todo-list/tasks) - Tasks tracker
 
 
