@@ -28,6 +28,10 @@
 
 ---
 
+![Codewars](https://github.r2v.ch/codewars?user=MariaRegi&stroke=GREY)
+
+---
+
 ### GitHub Stats
 
 <p align="center">
