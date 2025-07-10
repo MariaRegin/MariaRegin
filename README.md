@@ -32,14 +32,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaRegin&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
----
-
 ### Featured Projects
 
 - [Landing Page](https://mariaregin.github.io/storage-landing/) — Modern landing page with light/dark mode
